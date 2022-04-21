@@ -1,0 +1,10 @@
+Create a Java program in consideration of below conditions:
+
+1- get visa exam score and final exam score from user
+2- define and assign two scores into the related Variables
+    - if visa or final exam score is less than 0 or greater than 100
+    - System creates ArithmeticException exception and to prevent throw exception
+        use try and catch and print "Visa and Final exam scores should be between 0 and 100"
+3- Create a method named "average"
+4- Calculate the average -> average = visa*0.4 + final*0.6
+
